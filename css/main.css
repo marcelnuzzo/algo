@@ -1,0 +1,41 @@
+.inline
+{
+    display : inline-block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+
+.vertical-line{
+    border-left: 2px solid #000;
+    display: inline-block;
+    height: auto;
+    margin: 0 20px;
+}
+
+#vol-control, #vol-control2, #vol-control3, #coupure1 {
+    left: -20px;
+    position: absolute;
+    top: 90px;
+    //transform : rotate(-90deg);
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#affimg {
+    background-color: grey;
+    color:white;
+    font-family:verdana;
+    position: absolute;
+}
+
+.margebas {
+    margin-bottom: 20px;
+}
+/*
+#affimg {
+    width: 400px;
+    height: auto;
+}
+*/
